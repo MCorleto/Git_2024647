@@ -15,6 +15,9 @@ public class Git_2024647 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        System.out.println("Hi!");
+        System.out.println("My name is Miguel - 20246476");
     }
     
 }
